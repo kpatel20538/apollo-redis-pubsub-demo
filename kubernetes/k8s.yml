@@ -27,7 +27,6 @@ metadata:
 spec:
   type: ClusterIP  
   ports:
-  - name: "hello-world"
-    port: 3000
+  - port: 3000
   selector:
     app: hello-world

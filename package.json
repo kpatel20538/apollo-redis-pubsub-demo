@@ -1,7 +1,7 @@
 {
   "name": "apollo-redis-test",
   "dependencies": {
-    "apollo-server": "^2.15.0",
+    "apollo-server": "^2.25.3",
     "graphql": "^15.1.0",
     "graphql-redis-subscriptions": "^2.2.1",
     "graphql-subscriptions": "^1.1.0",
